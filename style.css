@@ -9,6 +9,7 @@
     justify-content: center;
     align-items: center;
     background-color: beige;
+    margin:50px
 }
 .clock-border{
     padding: 25px;
